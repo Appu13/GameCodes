@@ -4,7 +4,7 @@ using UnityEngine;
 public class ResourcePooler : MonoBehaviour 
 {
     /// <summary>
-    /// This is used to pool the zombies resources 
+    /// This is used to pool the resources 
     /// </summary>
    
 	#region Variables
